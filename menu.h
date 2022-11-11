@@ -2,10 +2,7 @@
 
 #include <stdio.h>
 
-int menuPrint(){
-
- int choice=0;
-
+int menuPrint(int *choice){
     printf("--------------------------------------------\n");
     printf("DEPREM VERILERI SORGU VE RAPORLAMA SISTEMI\n");
     printf("--------------------------------------------\n");
@@ -16,7 +13,7 @@ int menuPrint(){
     printf("AYRISTIRMA ICIN 4'U TUSLAYINIZ.\n");
     printf("ANALIZ ICIN 5'I TUSLAYINIZ.\n");
     printf("CIKIS ICIN 6'YI TUSLAYINIZ.\n");
-    scanf("%d" , &choice);
+    scanf("%d" , choice);
 
     return 0;
 

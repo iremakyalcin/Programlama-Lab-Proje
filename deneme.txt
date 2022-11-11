@@ -1,0 +1,7 @@
+id,date,time,lat,long,country,city,area,direction,dist,depth,xm,md,richter,mw,ms,mb
+2.00E+13,2003.05.20,12:17:44 AM,39.04,40.38,turkey,bingol,baliklicay,west,0.1,10,4.1,4.1,0,,0,0
+2.01E+13,2007.08.01,12:03:08 AM,40.79,30.09,turkey,kocaeli,bayraktar_izmit,west,0.1,5.2,4,3.8,4,,0,0
+1.98E+13,1978.05.07,12:41:37 AM,38.58,27.61,turkey,manisa,hamzabeyli,south_west,0.1,0,3.7,0,0,,0,3.7
+2.00E+13,1997.03.22,12:31:45 AM,39.47,36.44,turkey,sivas,kahvepinar_sarkisla,south_west,0.1,10,3.5,3.5,0,,0,0
+2.00E+13,2000.04.02,12:57:38 AM,40.8,30.24,turkey,sakarya,meseli_serdivan,south_west,0.1,7,4.3,4.3,0,,0,0
+2.01E+13,2005.01.21,12:04:03 AM,37.11,27.75,turkey,mugla,demirciler_milas,south_west,0.1,32.8,3.5,3.5,0,,0,0

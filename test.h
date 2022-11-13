@@ -140,16 +140,6 @@ if (token != NULL) {
 
 }
 
-/*
-    while(!feof(fp)) {
-            struct hasan *hasan = (struct hasan*)malloc(sizeof(struct hasan));             
-            fscanf(fp,"%s",hasan->line);
-            hasan->line="benim adım hasan\n";
 
-            printf("%s" , hasan->line);           
-                   
-
-        }  
-        */       
 
 }

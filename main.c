@@ -33,7 +33,7 @@ int choice = 0;
        switch (choice){
 
            case 1:
-           deneme(fp);
+           //sorgu(fp);
            break;
 
            case 2:
